@@ -1,6 +1,6 @@
 
 
-const APP_PATH = '/imdb';
+const APP_PATH = '';
 
 
 export const routhPath = {
